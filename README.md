@@ -38,5 +38,5 @@ A collection of projects built using HTML, CSS, and JavaScript.
 
 **Tech**: HTML5, CSS Grid, JavaScript
 
-Author Name:- Kumar Ashwini Mishra 
+Author Name:-Ashwini Mishra 
 Location:-Motihari College of Engineering,Motihari
